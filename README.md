@@ -1,2 +1,2 @@
-# pydjongo
-python+django代码仓库666
+# uipyapi
+vue+element+python+django代码仓库
