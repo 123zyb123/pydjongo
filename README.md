@@ -1,2 +1,2 @@
 # pydjongo
-python+django代码仓库
+python+django代码仓库666
